@@ -1,5 +1,9 @@
 # 📈 Subscription Finance & At-Risk Revenue Optimization Engine
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://subscription-finance-engine-nbj6dclzjeg6kvxa3zng9e.streamlit.app/)
+
+> **🚀 Live Interactive Application:** [Click here to view the Live Dashboard](https://subscription-finance-engine-nbj6dclzjeg6kvxa3zng9e.streamlit.app/)
+
 An end-to-end quantitative financial engineering and predictive risk scoring system built using the real-world IBM Telco Customer Churn dataset.
 
 This enterprise pipeline bridges machine learning with corporate finance by calculating continuous churn risk probabilities and mapping them directly to dollar-weighted revenue exposure (\$ Expected Loss).
