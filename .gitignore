@@ -7,10 +7,5 @@ env/
 # Jupyter Checkpoints
 .ipynb_checkpoints/
 
-# SQLite & Raw Data (Keep repo light)
-*.db
-*.sqlite3
-data/*.csv
-
 # VS Code settings
 .vscode/
